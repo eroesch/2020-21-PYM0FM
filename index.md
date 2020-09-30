@@ -415,10 +415,7 @@ please preview your site before committing, and make sure to run
       </article>
       <article role="tabpanel" class="tab-pane active" id="shell-macos">
         <p>
-          The default shell in all versions of macOS is Bash, so no
-          need to install anything.  You access Bash from the Terminal
-          (found in
-          <code>/Applications/Utilities</code>).
+          The default shell in all versions of macOS is now Zsh, but it behaves just like Bash, so no need to install anything. You access also access Bash proper from the Terminal (found in <code>/Applications/Utilities</code>), and type 'bash'.
           See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
           for an example on how to open the Terminal. (I personally like to use <a href="https://www.iterm2.com/">iTerm2</a> instead).
           You may want to keep
