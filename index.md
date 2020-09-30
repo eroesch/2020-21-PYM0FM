@@ -3,16 +3,16 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "pym0fm"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "School of Psychology and Clinical Language Sciences"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "University of Reading, School of Psychology and Clinical Language Sciences, Harry Pitt G37, Reading RG6 7BE"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Online seminars are held on <a href='https://teams.microsoft.com/l/team/19%3acc821c11cd014f19bea61a6428c11818%40thread.tacv2/conversations?groupId=66da0d95-0f79-4dd5-abe9-8e737ef5d6b8&tenantId=4ffa3bc4-ecfc-48c0-9080-f5e43ff90e5f'>the PYM0FM team on Microsoft Teams</a>. Face-to-face seminars are held at the University of Reading, School of Psychology and Clinical Language Sciences, Harry Pitt G37, Reading RG6 7BE"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "(51.439537, -0.936108)"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Oct 10 - Dec 12, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "Tuesdays, 16:00-18:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-10-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-12-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "Sep 30 - Dec 11, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "Wed 16:00-18:00 & Fri 14:00-16:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2020-09-30      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-12-11        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Etienne Roesch"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Your neighbour"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Her, him and everybody else!"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["e.b.roesch@reading.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: "https://docs.google.com/document/d/1s6YERF7Abc75SSNma0dg22aCsa4j9DAWl00I5OV3piQ/edit?usp=sharing"            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
