@@ -58,7 +58,7 @@ dc_post_survey: "https://www.surveymonkey.com/r/dcpostworkshopassessment?worksho
 lc_pre_survey: "https://www.surveymonkey.com/r/lcpreworkshopsurvey?workshop_id="
 lc_post_survey: "https://www.surveymonkey.com/r/lcpostworkshopsurvey?workshop_id="
 pym0fm_pre_survey: "https://forms.gle/q4cCgRouQjt7QfqV7"
-pym0fm_post_survey: ""
+# pym0fm_post_survey: ""
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
