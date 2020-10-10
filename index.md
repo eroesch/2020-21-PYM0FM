@@ -554,9 +554,9 @@ please preview your site before committing, and make sure to run
           nano is a basic editor and the default that we will use in the module.
         </p>
         <p>
-          Other editors exists, like the below, but are not installed on the VM
+          Other editors exists:
           <ul>
-          <li><a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,</li>
+          <li><a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a> (installed on CINN Neurodebian 1.0.22),</li>
           <li><a href="https://kate-editor.org/">Kate</a> or</li>
           <li><a href="https://www.sublimetext.com/">Sublime Text</a>.</li>
           </ul>
