@@ -551,14 +551,15 @@ please preview your site before committing, and make sure to run
       </article>
       <article role="tabpanel" class="tab-pane active" id="editor-linux">
         <p>
-          nano is a basic editor and the default that instructors use in the workshop.
-          It should be pre-installed.
+          nano is a basic editor and the default that we will use in the module.
         </p>
         <p>
           Other editors exists, like the below, but are not installed on the VM
-          <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,
-          <a href="https://kate-editor.org/">Kate</a> or
-          <a href="https://www.sublimetext.com/">Sublime Text</a>.
+          <ul>
+          <li><a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,</li>
+          <li><a href="https://kate-editor.org/">Kate</a> or</li>
+          <li><a href="https://www.sublimetext.com/">Sublime Text</a>.</li>
+          </ul>
         </p>
       </article>
     </div>
